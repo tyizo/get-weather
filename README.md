@@ -2,7 +2,7 @@
 
 get weather about any country you want!
 <br>
-demo try <a href="https://tyizo.github.io/get-weather/">here</a>
+demo try <a href="https://tyizo.github.io/get-weather/weather.html">here</a>
 
 # APIs
 
